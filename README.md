@@ -7,3 +7,7 @@ ligand topology from paramchem. System coordinates are from yank [p-xylene examp
 
 ## GPCR-aa
 An all-atom example, setting up a simulation for yank testing
+
+## GPCR-is 
+A GPCR implicit solvent example, setting up a simulation for yank testing
+
