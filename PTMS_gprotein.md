@@ -66,8 +66,10 @@ state that Gs is only palmitoylated on Cys3,
 
 ### Other refs
 
-[Mystek et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6829862/) lateral diffusion measures of various G proteins
-[Villaseca 2022](https://pubmed.ncbi.nlm.nih.gov/36092739/) non canonical signaling via Gi
-[Fishburn et al. 1999](https://pubmed.ncbi.nlm.nih.gov/10373496/) Gz
-[Martemyanov 2021](https://www.sciencedirect.com/science/article/pii/S0968000421001043) Mechanisms of Gβγ Release 
-[Lemos Duarte and Devi, 2020](https://www.sciencedirect.com/science/article/pii/S0166223620300710) Opioid receptors
+Related papers, but not directly addressing the issue of PTMs of G proteins
+
+* [Mystek et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6829862/) lateral diffusion measures of various G proteins
+* [Villaseca 2022](https://pubmed.ncbi.nlm.nih.gov/36092739/) non canonical signaling via Gi
+* [Fishburn et al. 1999](https://pubmed.ncbi.nlm.nih.gov/10373496/) Gz
+* [Martemyanov 2021](https://www.sciencedirect.com/science/article/pii/S0968000421001043) Mechanisms of Gβγ Release 
+* [Lemos Duarte and Devi, 2020](https://www.sciencedirect.com/science/article/pii/S0166223620300710) Opioid receptors
