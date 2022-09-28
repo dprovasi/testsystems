@@ -19,9 +19,7 @@ in order to interact with their receptor and with their membrane effectors
 
 * [Wedegaertner et al. 1995](https://www.jbc.org/article/S0021-9258(18)83027-7/fulltext) is also in agreement with the double lipidation, and indicates the sites. Gi should be N-myristoylation at G and palmitoylated at the C ("[...] attached through a labile, reversible thioester linkage to a cysteine near the N terminus")
 
-* [Wedegaertner et al. 1995](https://www.jbc.org/article/S0021-9258(18)83027-7/fulltext) also states that ''Myristoylation, or more specifically N-myristoylation, is the result of co-translational addition of the saturated 14-carbon fatty acid myristate to a glycine residue at the extreme N terminus *after removal of the initiating methionine*''. This is also reiterated in [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) "The absolute requirement for a free glycine residue at the N-terminus of the substrate protein *implies that the initiating methionine must be eliminated* by a methionyl amino peptidase prior to lipidation."
-
-![image from Wedegaertner](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/0361282f-631d-49f5-b8fc-8e565a6fdde6/gr1.jpg)
+* [Wedegaertner et al. 1995](https://www.jbc.org/article/S0021-9258(18)83027-7/fulltext) also states that ''Myristoylation, or more specifically N-myristoylation, is the result of co-translational addition of the saturated 14-carbon fatty acid myristate to a glycine residue at the extreme N terminus *after removal of the initiating methionine*''. This is also reiterated in [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) "The absolute requirement for a free glycine residue at the N-terminus of the substrate protein *implies that the initiating methionine must be eliminated* by a methionyl amino peptidase prior to lipidation." ![image from Wedegaertner](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/0361282f-631d-49f5-b8fc-8e565a6fdde6/gr1.jpg)
 
 
 #### Gαi palmitoylation is reversible, and myristoylation is a precondition for Gi palmitoylation
