@@ -1,8 +1,9 @@
 ## Notes on G protein PTMs
 
 
-### G$\alpha$i
+### Gα 
 
+$\alpha$ 
 
 #### PTMs sites on Gi
 According to [Villaseca et al. 2022](https://www.frontiersin.org/articles/10.3389/fcell.2022.941870/full),  G$\alpha$i 
@@ -36,7 +37,31 @@ was sufficient for attachment of at least peptides to membrane (Shahinian and Si
 * [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) For the Gi family myristoylation is a precondition for palmitoylation [32], [48], the secondary lipid modification found on Gα subunits. In this context, the role of the myristoyl group is to facilitate an initial contact with the membrane and to direct the Gα subunit to the palmitoylation compartment. 
 
 
+### G$\beta\gamma$
+
+
+
 ### G$\alpha$s
 
+* Older papers (like [Wedegaertner et al. 1993](https://www.sciencedirect.com/science/article/pii/S0021925819745633))
+state that Gs is only palmitoylated on Cys3, 
+
+* [Kleuss et al. 2033](https://www.embopress.org/doi/full/10.1093/emboj/cdg095)  determined [...] a *second palmitoyl residue that is linked to the G protein at the extreme N-terminal glycine by an unusual amide linkage*. 
+
+* [Kleuss et al. 2033](https://www.embopress.org/doi/full/10.1093/emboj/cdg095)  ''Under cellular conditions, *Gαs most probably is temporarily palmitoylated on both residues, Gly2 and Cys3*. The two neighbouring palmitoyl groups in Gαs are not equivalent, [...] The newly described palmitoyl group on Gly2 is attached via an amide linkage, while the palmitoyl group at Cys3 is attached via a thioester bond (Linder et al., 1993). So far, palmitoylation via an N-terminal glycine was unknown to occur on heterotrimeric G proteins. Furthermore, palmitoylation via an amide bond (N-terminal cysteine or internal lysine) seems to be rare.
+
+* [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) also reports "As an exception to the rule it was recently found that native Gαs can also be palmitoylated at the N-terminal glycine (Gly2), and that this lipid modification occurs via N-acylation [Kleuss et al. 2033](https://www.embopress.org/doi/full/10.1093/emboj/cdg095). The apparent dual Gly2/Cys3 palmitoylation of Gαs is similar to the myristoylation/palmitoylation motif of the Gαi family and it has functional consequences on signal transduction [Kleuss and Gilman](https://www.pnas.org/doi/abs/10.1073/pnas.94.12.6116). "
 
 
+
+### Other refs
+
+[Mystek et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6829862/) lateral diffusion measures of various G proteins
+[](https://pubmed.ncbi.nlm.nih.gov/36092739/) non canonical signaling via Gi
+
+
+
+
+### Opioid receptors
+
+[Lemos Duarte and Devi, 2020](https://www.sciencedirect.com/science/article/pii/S0166223620300710)
