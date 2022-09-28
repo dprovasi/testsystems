@@ -4,7 +4,7 @@
 ### Gα 
 
 #### PTMs sites on Gαi
-According to [Villaseca et al. 2022](https://www.frontiersin.org/articles/10.3389/fcell.2022.941870/full),  G$\alpha$i 
+According to [Villaseca et al. 2022](https://www.frontiersin.org/articles/10.3389/fcell.2022.941870/full),  Gαi 
 "membrane location is mediated by *two* lipid modification, myristoylation and palmitoylation at the amino terminus. 
 *Gαi family is the only family that is myristoylated*, in contrast with the other Gα (Gαs, Gα12/13, and Gαq) 
 families that are only palmitoylated; both lipid modifications are important to allow interaction with the membrane, 
