@@ -39,7 +39,7 @@ was sufficient for attachment of at least peptides to membrane (Shahinian and Si
 
 * The function of myristoylation could be "to maintain the N-terminal structure of the corresponding Gα subunit", as proposed by Hubbell and Hamm [Preininger et al 2003](https://pubs.acs.org/doi/full/10.1021/bi0345438): "To gain insight into the role of myristoylation in the structure and function of Gαi subunits, EPR and fluorescence studies have now been conducted using myristoylated Gαi proteins"
 
-* [Keulen and Rothlisberger, 2017](https://pubs.acs.org/doi/10.1021/acs.biochem.6b00388) ran a 2 μs simulation of myristoylated Gi
+* [van Keulen and Rothlisberger, 2017](https://pubs.acs.org/doi/10.1021/acs.biochem.6b00388) ran a 2 μs simulation of myristoylated Gi
 
 
 ### Gγ1 and Gγ2 are prenylated at the C-terminal
@@ -63,6 +63,16 @@ state that Gs is only palmitoylated on Cys3,
 
 * [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) also reports "As an exception to the rule it was recently found that native Gαs can also be palmitoylated at the N-terminal glycine (Gly2), and that this lipid modification occurs via N-acylation [Kleuss et al. 2033](https://www.embopress.org/doi/full/10.1093/emboj/cdg095). The apparent dual Gly2/Cys3 palmitoylation of Gαs is similar to the myristoylation/palmitoylation motif of the Gαi family and it has functional consequences on signal transduction [Kleuss and Gilman](https://www.pnas.org/doi/abs/10.1073/pnas.94.12.6116). "
 
+### force fields
+
+* [Mafi et al. 2021](https://www.cambridge.org/core/journals/qrb-discovery/article/g-proteinfirst-activation-mechanism-of-opioid-receptors-by-gi-protein-and-agonists/23FF9692A7DBEDB039A98F9CB612B52D) "The G protein-first activation mechanism of opioid receptors by Gi protein and agonists"
+The [image](https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS2633289221000077/resource/name/S2633289221000077_figAb.png) seems to indicate two lipidations on Gαi, but the methods don't mention them.
+
+* as noted above, [van Keulen and Rothlisberger, 2017](https://pubs.acs.org/doi/10.1021/acs.biochem.6b00388)  simulated  Gαi with N-terminal myristoylation (but *not palmitoylated*)
+
+* [Mafi et al.](https://www.pnas.org/doi/10.1073/pnas.1910006117) simulate Gi and KOR with AMBER forcefield; the Gαi was N-terminal myristoylated (but *not palmitoylated*) and  Gγ was C-terminal geranylgeranyl. Parameters were borrowed from the studies by [van Keulen and Rothlisberger, 2017](https://pubs.acs.org/doi/10.1021/acs.biochem.6b00388), and [Khouri et al. 2013](https://pubs.acs.org/doi/full/10.1021/ct400556v)
+
+* [Robertson and Skiniotis 2022](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00015) report improved OPLS-AA parameters for some PTMs
 
 ### Other refs
 
@@ -73,3 +83,4 @@ Related papers, but not directly addressing the issue of PTMs of G proteins
 * [Fishburn et al. 1999](https://pubmed.ncbi.nlm.nih.gov/10373496/) Gz
 * [Martemyanov 2021](https://www.sciencedirect.com/science/article/pii/S0968000421001043) Mechanisms of Gβγ Release 
 * [Lemos Duarte and Devi, 2020](https://www.sciencedirect.com/science/article/pii/S0166223620300710) Opioid receptors
+
