@@ -3,9 +3,7 @@
 
 ### Gα 
 
-$\alpha$ 
-
-#### PTMs sites on Gi
+#### PTMs sites on Gαi
 According to [Villaseca et al. 2022](https://www.frontiersin.org/articles/10.3389/fcell.2022.941870/full),  G$\alpha$i 
 "membrane location is mediated by *two* lipid modification, myristoylation and palmitoylation at the amino terminus. 
 *Gαi family is the only family that is myristoylated*, in contrast with the other Gα (Gαs, Gα12/13, and Gαq) 
@@ -15,7 +13,7 @@ in order to interact with their receptor and with their membrane effectors
 [Morales et al., 1998](https://www.molbiolcell.org/doi/10.1091/mbc.9.1.1)
 [Fishburn et al., 1999](https://www.sciencedirect.com/science/article/pii/S0021925819872228)
 
-#### PTMs sites on Gi
+#### PTMs sites on Gαi
 
 *  [Morales et al., 1998](https://www.molbiolcell.org/doi/10.1091/mbc.9.1.1) reports that the double lipidation is established for all members of the αi family (αi1, αi2, αi3, αz, and αo) (myristoylated on the N-terminal glycine residue and palmitoylated on the adjacent cysteine).
 
@@ -26,7 +24,7 @@ in order to interact with their receptor and with their membrane effectors
 ![image from Wedegaertner](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/0361282f-631d-49f5-b8fc-8e565a6fdde6/gr1.jpg)
 
 
-#### Gi palmitoylation is reversible, and myristoylation is a precondition for Gi palmitoylation
+#### Gαi palmitoylation is reversible, and myristoylation is a precondition for Gi palmitoylation
 
 ''The *reversible nature of palmitoylation* is intriguing in this regard,  as it lends itself to a regulation integrated with the activation state of the G protein.'' ([Chen and Manning, 2001](https://www.nature.com/articles/1204185))
 
@@ -37,11 +35,17 @@ was sufficient for attachment of at least peptides to membrane (Shahinian and Si
 * [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) For the Gi family myristoylation is a precondition for palmitoylation [32], [48], the secondary lipid modification found on Gα subunits. In this context, the role of the myristoyl group is to facilitate an initial contact with the membrane and to direct the Gα subunit to the palmitoylation compartment. 
 
 
-### G$\beta\gamma$
+### Gγ1 and Gγ2 
+
+* [Wedegaertner et al. 1995](https://www.jbc.org/article/S0021-9258(18)83027-7/fulltext) G protein γ subunits are covalently modified by the 20-carbon isoprenoid geranylgeranyl or, (in the case of retinal-specific γ1, the 15-carbon isoprenoid farnesyl).
+
+* Also, [Wedegaertner et al. 1995](https://www.jbc.org/article/S0021-9258(18)83027-7/fulltext) mentions that "[...] the geranylgeranyl (or farnesyl) moiety is attached via a stable thioether bond to a cysteine residue located in the C-terminal “CAAX” box of γ . *This is followed by proteolytic removal of the C-terminal three amino acids and then by carboxyl methylation at the new C terminus.*"
+and "*After prenylation, the C-terminal three amino acids are removed, and the new C terminus is carboxylmethylated.*"
+
+prenylation = geranylgeranylation or farnesylation
 
 
-
-### G$\alpha$s
+### Gαs
 
 * Older papers (like [Wedegaertner et al. 1993](https://www.sciencedirect.com/science/article/pii/S0021925819745633))
 state that Gs is only palmitoylated on Cys3, 
@@ -53,15 +57,10 @@ state that Gs is only palmitoylated on Cys3,
 * [Vögler et al. 2008](https://www.sciencedirect.com/science/article/pii/S0005273608001107) also reports "As an exception to the rule it was recently found that native Gαs can also be palmitoylated at the N-terminal glycine (Gly2), and that this lipid modification occurs via N-acylation [Kleuss et al. 2033](https://www.embopress.org/doi/full/10.1093/emboj/cdg095). The apparent dual Gly2/Cys3 palmitoylation of Gαs is similar to the myristoylation/palmitoylation motif of the Gαi family and it has functional consequences on signal transduction [Kleuss and Gilman](https://www.pnas.org/doi/abs/10.1073/pnas.94.12.6116). "
 
 
-
 ### Other refs
 
 [Mystek et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6829862/) lateral diffusion measures of various G proteins
-[](https://pubmed.ncbi.nlm.nih.gov/36092739/) non canonical signaling via Gi
-
-
-
-
-### Opioid receptors
-
-[Lemos Duarte and Devi, 2020](https://www.sciencedirect.com/science/article/pii/S0166223620300710)
+[Villaseca 2022](https://pubmed.ncbi.nlm.nih.gov/36092739/) non canonical signaling via Gi
+[Fishburn et al. 1999](https://pubmed.ncbi.nlm.nih.gov/10373496/) Gz
+[Martemyanov 2021](https://www.sciencedirect.com/science/article/pii/S0968000421001043) Mechanisms of Gβγ Release 
+[Lemos Duarte and Devi, 2020](https://www.sciencedirect.com/science/article/pii/S0166223620300710) Opioid receptors
