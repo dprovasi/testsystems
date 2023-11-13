@@ -14,6 +14,15 @@ the "surrogate probabilistic models" into which the input models are converted.
  - coupling of these surrogate models through subsets of statistically related variables
  - backpropagation to update the original input models by computing the PDFs of 
   free parameters for each input model in the context of all other input models
- 
+
+3. *surrogate probabilistic models* a surrogate model specifies a PDF over some input model variables and any additional variables deemed necessary. This PDF encodes model uncertainty and statistical dependencies among its variables. Model uncertainty arises from insufficient information, imperfect modeling, and/or stochasticity of the system.
+
+we need a PDF. 
+for instance, we could define it via a probabilistic graphical model (PGM) 
+$$ {\rm PGM}  \supset  {\rm BN} \supset {\rm dyn BN} \supset {\rm HMM} $$
+
+
+4. 
+
 
 ## available models
