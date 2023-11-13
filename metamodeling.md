@@ -1,4 +1,3 @@
-
 # Notes on metamodeling for GPCR efficacy
 
 
