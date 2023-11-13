@@ -19,6 +19,7 @@ the "surrogate probabilistic models" into which the input models are converted.
 
 we need a PDF. 
 for instance, we could define it via a probabilistic graphical model (PGM) 
+
 $$ {\rm PGM}  \supset  {\rm BN} \supset {\rm dyn BN} \supset {\rm HMM} $$
 
 
