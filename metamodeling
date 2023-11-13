@@ -1,0 +1,20 @@
+
+# Notes on metamodeling for GPCR efficacy
+
+
+## notes on Raveh et al.
+
+1. "Given the input models", metamodeling proceeds in three steps. 
+here, the models are 'final' model with well defined parameters? 
+depending of which parameters are assumed fixed and which are not in 
+the "surrogate probabilistic models" into which the input models are converted. 
+
+2. the three steps are: 
+
+ - conversion of the input models into surrogate probabilistic models
+ - coupling of these surrogate models through subsets of statistically related variables
+ - backpropagation to update the original input models by computing the PDFs of 
+  free parameters for each input model in the context of all other input models
+ 
+
+## available models
