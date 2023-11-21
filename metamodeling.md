@@ -23,7 +23,14 @@ for instance, we could define it via a probabilistic graphical model (PGM)
 $$ {\rm PGM}  \supset  {\rm BN} \supset {\rm dyn BN} \supset {\rm HMM} $$
 
 
-4. 
 
 
 ## available models
+
+
+## defining and sampling BN with 
+
+[tutorial of simple metamodeling](github.com/tanmoy7989/bayesian_metamodeling_tutorial)
+this uses [pyMC](https://www.pymc.io/welcome.html) for sampling.
+
+
