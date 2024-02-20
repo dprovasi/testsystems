@@ -15,9 +15,8 @@
 - systems biology
 
 ## outfields (biophysics, computational biophysics, inference, information theory)
-- systems biology alon Uri Alon [lab](https://www.weizmann.ac.il/mcb/UriAlon/) [course](https://www.youtube.com/playlist?list=PLLbr-B8cNbo6v4kc68JowzUeAYdh6gdQH) [book sys biol](https://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1439837171/)
-  [systems medicine course](https://www.weizmann.ac.il/mcb/UriAlon/system-medicine-2022-2023)
-  [book sys medicine](https://www.amazon.com/Systems-Medicine-Physiological-Circuits-Computational/dp/1032411856)
+
+- systems biology alon Uri Alon [lab](https://www.weizmann.ac.il/mcb/UriAlon/) [course](https://www.youtube.com/playlist?list=PLLbr-B8cNbo6v4kc68JowzUeAYdh6gdQH) [book sys biol](https://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1439837171/) [systems medicine course](https://www.weizmann.ac.il/mcb/UriAlon/system-medicine-2022-2023) [book sys medicine](https://www.amazon.com/Systems-Medicine-Physiological-Circuits-Computational/dp/1032411856)
 - [Quantitative biology](https://mitpress.mit.edu/9780262038089/quantitative-biology/)
 - David MacKay [book](http://www.inference.org.uk/mackay/itila/book.html) [information theory](https://videolectures.net/course_information_theory_pattern_recognition/)
 - biophysics topics (Bialek)
