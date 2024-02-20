@@ -14,8 +14,8 @@
 - AI
 - systems biology
 
-## outfields (biophysics, inference)
-
+## outfields (biophysics, computational biophysics, inference, information theory)
+- [Quantitative biology](https://mitpress.mit.edu/9780262038089/quantitative-biology/)
 - David MacKay [book](http://www.inference.org.uk/mackay/itila/book.html) [information theory](https://videolectures.net/course_information_theory_pattern_recognition/)
 - biophysics topics (Bialek)
 - [the molecular switch](https://press.princeton.edu/books/hardcover/9780691200248/the-molecular-switch)
