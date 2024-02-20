@@ -1,10 +1,28 @@
 # general considerations
 
-- an ideal bioinformatics course should contain the basic 'traditional' algorithms, along with new AI-based ones.
-- it should be hands-on, providing the students with code to build on for their studies
+- an ideal bioinformatics course should contain the basic 'traditional' algorithms, along with new AI-based ones. AI-based algorithms are cool and modern and would drive the interest of students, who are likely also interested in opportunities outside academia 
+- it should be hands-on, providing the students with code to build on for their studies; 
 - it should put them in the condition to be able to modify the code and understand it
+- consider the language problem: should the course focus on R or python, or be code agnostic?
 
 # Syllabus
+
+## classical bioinformatics
+- genetics and genomics
+- structural bioinformatics and drug-discovery
+- database
+- AI
+- systems biology
+
+## outfields (biophysics, inference)
+
+- David MacKay [book](http://www.inference.org.uk/mackay/itila/book.html) [information theory](https://videolectures.net/course_information_theory_pattern_recognition/)
+- biophysics topics (Bialek)
+- [the molecular switch](https://press.princeton.edu/books/hardcover/9780691200248/the-molecular-switch)
+- Milo [Cell biology by the number](https://www.amazon.com/Cell-Biology-Numbers-Ron-Milo/dp/0815345372)
+- physics biology of the cell
+- Andrew Gelman [books](http://www.stat.columbia.edu/~gelman/books/)
+
 
 # useful articles/links
 * [rshamir course TAU](https://www.cs.tau.ac.il/~rshamir/algmb/algmb-archive.htm), [workshop on genome analysis](https://www.cs.tau.ac.il/~rshamir/workshop/21a/)
