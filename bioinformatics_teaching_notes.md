@@ -29,7 +29,10 @@
 # useful articles/links
 * [rshamir course TAU](https://www.cs.tau.ac.il/~rshamir/algmb/algmb-archive.htm), [workshop on genome analysis](https://www.cs.tau.ac.il/~rshamir/workshop/21a/)
 [How to spice up your bioinformatics skill set with AI](https://www.nature.com/articles/d41586-023-03067-6)
-
+* corso universita ha-ptucha [articolo themarker](https://www.themarker.com/career/2001-03-13/ty-article/0000017f-e3d8-d7b2-a77f-e3df2e500000)
+* [bauman corso online](https://baumann.co.il/faculty/82828340)
+* [youtube very basic high-school course](https://www.youtube.com/playlist?list=PLiUTVPQRVOtP_9UczNtQQnlvKTG93HeYK)
+* 
 # Texts
 
 It's hard to find a "modern" text that includes AI-based algrithms;
@@ -44,7 +47,13 @@ moreover, presenting AI tools would require a general introduction to machine le
 * [a primer for comp biol](https://open.oregonstate.education/computationalbiology/) python+R programming
 
 # group links
+* technion biology [ביואינפורמטיקה וביולוגיה מערכתית](https://biology.technion.ac.il/area/%D7%91%D7%99%D7%95%D7%90%D7%99%D7%A0%D7%A4%D7%95%D7%A8%D7%9E%D7%98%D7%99%D7%A7%D7%94-%D7%95%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94-%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA%D7%99%D7%AA/)
 * [compeau](https://compeau.cbd.cmu.edu/teaching/) interesting notes about innovative ways of teaching
 * [Shamir new](https://acgt.cs.tau.ac.il/) [Shamir (TAU)](https://www.cs.tau.ac.il/~rshamir/)
 * [TAU computer sciences](https://en-exact-sciences.tau.ac.il/computer)
 * [The Yandex Initiative for Machine Learning](https://en.cs.tau.ac.il/computer/research_centers_yandex)
+
+# course syllabi
+* [ivrit introduction to bioinformatics](https://shnaton.huji.ac.il/index.php/NewSyl/94510/1/2022/)
+* 
+* [Tel Hai bioinformatics](https://www.telhai.ac.il/BSc_%D7%91%D7%99%D7%95%D7%90%D7%99%D7%A0%D7%A4%D7%95%D7%A8%D7%9E%D7%98%D7%99%D7%A7%D7%94)
