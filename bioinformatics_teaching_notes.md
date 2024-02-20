@@ -33,11 +33,13 @@
 It's hard to find a "modern" text that includes AI-based algrithms;
 moreover, presenting AI tools would require a general introduction to machine learning tools
 
+
 * [Bioinformatics Algorithms: an Active Learning Approach](https://www.bioinformaticsalgorithms.org/)
 * [Bioinformatics for biologists (2011)](https://www.cambridge.org/us/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/bioinformatics-biologists?format=PB&isbn=9781107648876#contentsTabAnchor) multiple authors for the different chatpers
 * [Lesk]([https://www.amazon.com/Introduction-Bioinformatics-Arthur-Lesk/](https://www.amazon.com/Introduction-Bioinformatics-Arthur-Lesk/dp/0198794142/))
 * Pevzner's [An Introduction to Bioinformatics Algorithms](https://www.amazon.com/Introduction-Bioinformatics-Algorithms-Computational-Molecular-ebook/dp/B08N42DF3Z)
 
+* [a primer for comp biol](https://open.oregonstate.education/computationalbiology/) python+R programming
 
 # group links
 * [compeau](https://compeau.cbd.cmu.edu/teaching/) interesting notes about innovative ways of teaching
